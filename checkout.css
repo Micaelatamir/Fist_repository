@@ -9,10 +9,11 @@ body {
 }
 
 .cart-shopping{
-padding: 20px;
+padding: 10px;
 background-color:black;
 color: white;
-margin-top:-9px;
+cursor: pointer;
+
 }
 
 h3{
