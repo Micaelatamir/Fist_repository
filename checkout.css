@@ -8,10 +8,10 @@ body {
 
 }
 
-.cart_shopping{
+.cart-shopping{
 padding: 20px;
-background-color:none;
-color:none;
+background-color:black;
+color: white;
 }
 
 h3{
