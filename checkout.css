@@ -19,3 +19,11 @@ justify-content: center;
 h3{
     color: black;
 }
+#rodape {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+}
