@@ -12,7 +12,6 @@ body {
 padding: 10px;
 color: white;
 cursor: pointer;
-justify-content: right;
 }
 
 h3{
@@ -21,7 +20,7 @@ h3{
 #rodape {
     background-color: #000000;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 20px;
     bottom: 0;
     width: 100%;
