@@ -1,7 +1,7 @@
 #rodape{
     background-color: #000000;
     text-align:left;
-    padding: -7px;
+    padding: 1px;
     bottom: 0;
     width: 100%;
 }
@@ -9,12 +9,7 @@
 .logo{
     color: white;
     font-size: small;
-}
-
-.seach{
-    margin-left: 80%;
-    padding: 15px;
-   
+ 
 }
 
 .categorias{
