@@ -16,3 +16,16 @@
     padding: 15px;
    
 }
+
+.categorias{
+border: none;
+display: flex;
+justify-content: center;
+}
+
+#rodape_final{
+
+    background-color: #000000;
+    color: white;
+    
+}
