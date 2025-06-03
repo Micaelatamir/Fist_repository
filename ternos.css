@@ -56,6 +56,17 @@ position: relative;}
     width: 420px;
    
 }
+.categorias3 li{
+    display: inline-block;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+}
+
+.categorias3 img{
+    width: 420px;
+}
 
 #rodape_final{
 
