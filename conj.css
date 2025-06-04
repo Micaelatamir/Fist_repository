@@ -1,0 +1,44 @@
+body{
+ background-color: white;
+ color: black;
+ padding: 0;
+ margin: 0;
+ }
+
+#rodape{
+ background-color: black;
+ color: white;
+ overflow-x: hidden;
+ 
+}
+
+.logo{
+  color: white;
+  font-size: small;
+ }
+
+.produtos li{
+  align-content: center;
+  display: inline-block;
+  padding:0;
+  margin: 0;
+}
+
+.produtos2 li{
+  align-content: center;
+  display: inline-block;
+  padding:0;
+  margin: 0;
+}
+
+.produtos3 li{
+  align-content: center;
+  display: inline-block;
+  padding:0;
+  margin: 0;
+}
+
+#rodape_final{
+background-color: black;
+color: white;
+}
