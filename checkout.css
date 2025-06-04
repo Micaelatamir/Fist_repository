@@ -8,6 +8,14 @@ body {
 
 }
 
+#cabecalho {
+    background-color: #000000;
+    color: white;
+    text-align: 30px;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
 .cart-shopping{
 padding: 0;
 margin: 0;
@@ -38,12 +46,3 @@ h3{
     margin-top: 50px;
 }
 
-
-#rodape {
-    background-color: #000000;
-    color: white;
-    text-align: 30px;
-    padding: 10px;
-    bottom: 0;
-    width: 100%;
-}
