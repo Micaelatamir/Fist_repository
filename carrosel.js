@@ -1,5 +1,5 @@
 let currentIndex = 0;
-const images = document.querySelectorAll('.carousel-image');
+const images = document.querySelectorAll('.carousel-slide a');
 const totalImages = images.length;
 
 function changeImage() {
