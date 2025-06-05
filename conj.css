@@ -12,9 +12,12 @@ body{
  
 }
 
-.logo{
+.logo h1{
   color: white;
-  font-size: small;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+  font-weight: 200;
+  margin: 5px;
  }
 
 .produtos li{
